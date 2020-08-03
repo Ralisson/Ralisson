@@ -1,4 +1,10 @@
-### Hi there 👋
+# Hi there! I'm Ralisson Araujo Ribeiro - Data Scientist  👋👋👋
+### Welcome to Github
+### Contact - ralisson.ribeiro@gmail.com
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https:https://www.linkedin.com/in/ralisson-ribeiro-74136333//)](https://www.linkedin.com/in/ralisson-ribeiro-74136333//)
+
+
 
 <!--
 **Ralisson/Ralisson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
